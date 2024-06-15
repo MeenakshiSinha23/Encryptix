@@ -87,7 +87,7 @@ int main(){
                 choicesleft--;
                 cout<< choicesleft<< " choice left"<<endl;
                 if(choicesleft==0){
-                    cout<<"You couldn't find the seceret number, the seceret number is "<<random<<" You Lose!!"<<endl;
+                    cout<<"You couldn't find the seceret number, the secret number is "<<random<<" You Lose!!"<<endl;
                     cout<<"Play another game to win!! \n\n";
                 }
             }
